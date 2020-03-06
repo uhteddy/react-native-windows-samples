@@ -96,7 +96,7 @@ yarn add rnpm-plugin-windows
 
 >**If using NPM**
 >
->```npm install --save rnpm-plugin-windows```
+>```npm install --save-dev rnpm-plugin-windows```
 
 ### Install the Windows extension
 
